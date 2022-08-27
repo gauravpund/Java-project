@@ -12,7 +12,7 @@ public class Calculator {
 		int size;
 		Scanner sc=new Scanner(System.in);
 		
-		System.out.println("*******CALCULATOR*******");
+		System.out.println("**************");
 		System.out.println(" ");
 		System.out.println(" ");
 		System.out.println("1. Addition (+)");
